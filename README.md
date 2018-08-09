@@ -11,4 +11,4 @@ This project is made to storage all Arduino projects using diferents Sound featu
 
 ## Authors
 
-* **Ignacio Rubio** - *Initial work* - [IgnacioRubio](https://github.com/IgnacioRubio
+* **Ignacio Rubio** - *Initial work* - [IgnacioRubio](https://github.com/IgnacioRubio)
